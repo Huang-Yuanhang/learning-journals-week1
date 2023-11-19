@@ -6,7 +6,7 @@
   - Created a simple website using HTML.
   - Learned about HTML tags, structure, and syntax.
   - [HTML Tutorial - How to Make a Super Simple Website - YouTube](https://www.youtube.com/watch?v=PlxWf493en4)
-
+  - https://www.youtube.com/watch?v=PlxWf493en4
 - **Code Editor Usage:**
   - Utilized Visual Studio Code for coding exercises.
   - Explored other code editors like Atom and Sublime.
