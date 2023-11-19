@@ -15,7 +15,7 @@
 ## Estimated Hours
    - About 10 hours 
 ## Content Insights
-  The knowledge what I learn on the youtube [[HTML Tutorial - How to Make a Super Simple Website - YouTube](https://www.youtube.com/watch?v=PlxWf493en4)] are below:
+  The knowledge what I learn on the youtube [HTML Tutorial - How to Make a Super Simple Website - YouTube](https://www.youtube.com/watch?v=PlxWf493en4) are below:
 - **HTML Basics:**
   - Understanding HTML as a markup language.
   - Differentiating it from programming languages.
